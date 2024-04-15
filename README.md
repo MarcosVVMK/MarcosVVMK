@@ -1,7 +1,5 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MarcosVVMK/MarcosVVMK/blob/master/README.pt-br.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MarcosVVMK/MarcosVVMK/blob/master/README.en-us.md)
 
-Hi, my name is Marcos Matos and I am a Developer with solid backend experience, currently expanding skills to include frontend and deepening knowledge in data analysis. Proficient in PHP, with significant experience in developing and maintaining themes and plugins for WordPress and WooCommerce, integrating payment gateways and creating APIs. Additionally, I have experience in maintaining websites in Laravel and developing websites and plugins in Node. js using the Strapi framework. I am currently studying Data Analysis to complement my skills and knowledge
-
-
+Meu nome é Marcos Matos e sou um Desenvolvedor com sólida experiência em backend, atualmente expandindo habilidades para incluir frontend e aprofundando conhecimentos em análise de dados. Proficiente em PHP, com experiência significativa no desenvolvimento e manutenção de temas e plugins para WordPress e WooCommerce, integração de gateways de pagamentos e criação de APIs. Além disso, possuo experiência em manutenção de sites em Laravel e desenvolvimento de sites e plugins em Node.js usando o framework Strapi. Atualmente, estou cursando técnico em Análise de Dados para complementar minhas habilidades e conhecimentos
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-matos-47596a160/)
